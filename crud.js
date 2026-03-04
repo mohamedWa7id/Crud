@@ -150,7 +150,7 @@ function searchdata(value) {
                 table += `   <tr>
                             <td>${i}</td>
                             <td>${dataproduct[i].title}</td>
-                            <td>>${dataproduct[i].price}</td>
+                            <td>${dataproduct[i].price}</td>
                             <td>${dataproduct[i].taxes}</td>
                             <td>${dataproduct[i].discount}</td>
                             <td>${dataproduct[i].category}</td>
